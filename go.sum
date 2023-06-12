@@ -1,0 +1,4 @@
+github.com/4lch4/glogger v1.2.0 h1:7wrwrKPDLwDB+DulgHKRUkV7RNv98NjmJrMG+qGr8Js=
+github.com/4lch4/glogger v1.2.0/go.mod h1:B0vu/mpAz1+Y+6Yo7gNiBCGk9uTZ3+p0/AprVi6MT5A=
+github.com/logrusorgru/aurora/v4 v4.0.0 h1:sRjfPpun/63iADiSvGGjgA1cAYegEWMPCJdUpJYn9JA=
+github.com/logrusorgru/aurora/v4 v4.0.0/go.mod h1:lP0iIa2nrnT/qoFXcOZSrZQpJ1o6n2CUf/hyHi2Q4ZQ=
